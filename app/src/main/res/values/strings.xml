@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="action_settings">Settings</string>
+    <string name="apple">Apples </string>
+    <string name="coun" formatted="false">The price of %d apples is %.2f </string>
+    <string name="caption">The lighter side</string>
+    <string name="font_path">fonts\LATINWD.TTF</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messager</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="apple">Pommes </string>
+    <string name="coun" formatted="false">Le prix des pommes % d % est .2f</string>
+</resources>
