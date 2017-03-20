@@ -6,7 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 //branch edit 
-// detached head comments added
+// detached head comments changed ....
+//agann added some commments
 public class MainActivity extends AppCompatActivity {
 
    private TextView textView;
