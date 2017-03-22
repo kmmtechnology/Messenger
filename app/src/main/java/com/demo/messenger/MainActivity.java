@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-//we have changed the comment section one more time
+//testi bracnhg comments
 public class MainActivity extends AppCompatActivity {
    private TextView textView;
    @Override
