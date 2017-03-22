@@ -4,7 +4,7 @@ import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
-//added comments deleted
+//testi bracnhg comments
 public class MainActivity extends AppCompatActivity {
    private TextView textView;
    @Override
