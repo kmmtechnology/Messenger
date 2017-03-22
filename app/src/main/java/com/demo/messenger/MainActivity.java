@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-// local master bracnh has added this comment
 public class MainActivity extends AppCompatActivity {
    private TextView textView;
    @Override
